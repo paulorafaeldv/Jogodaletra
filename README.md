@@ -1,4 +1,4 @@
-# Jogodaletra
+# Caça Letra
 
 Jogo do CAÇA LETRA 🕹️
 
